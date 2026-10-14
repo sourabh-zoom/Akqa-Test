@@ -1,0 +1,16 @@
+{
+  "routes": {
+    "delhi": {
+      "code": "DEL",
+      "name": "Delhi"
+    },
+    "mumbai": {
+      "code": "BOM",
+      "name": "Mumbai"
+    }
+  },
+
+  "travellers": {
+    "adults": 1
+  }
+}
